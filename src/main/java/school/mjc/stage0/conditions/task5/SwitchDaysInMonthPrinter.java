@@ -29,7 +29,7 @@ public class SwitchDaysInMonthPrinter {
         if (days != -1) {
             System.out.println(days);
         } else {
-            System.out.println("Error");
+            System.out.println("wrong number!");
         }
     }
 }
