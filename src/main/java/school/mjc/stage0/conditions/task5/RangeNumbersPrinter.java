@@ -9,17 +9,17 @@ public class RangeNumbersPrinter {
             case 3:
             case 4:
             case 5:
-                message = "Number is between 1 and 5";
+                message = "number is between 1 and 5";
                 break;
             case 6:
             case 7:
             case 8:
             case 9:
             case 10:
-                message = "Number is between 6 and 10";
+                message = "number is between 6 and 10";
                 break;
             default:
-                message = "Out of range";
+                message = "out of range";
                 break;
         }
         System.out.println(message);
